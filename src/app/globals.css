@@ -138,8 +138,8 @@ h1 {
   overflow-y: auto;
   max-height: 300px;
   scroll-behavior: smooth; 
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
 }
-
 .message {
   padding: 10px;
   border-radius: 10px;
